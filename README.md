@@ -25,3 +25,6 @@
   <a href="https://www.linkedin.com/in/davi-figueiredo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5512997310152&text=Ol%C3%A1!%20Vi%20seu%20perfil%20no%20github" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
+
+
+![snake_gif](https://github.com/DaviFigueiredo95/DaviFigueiredo95/blob/output/github-contribution-grid-snake.svg).
