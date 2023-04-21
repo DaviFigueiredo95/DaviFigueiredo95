@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Davi Figueiredo 👋
 
-- 🚀 Estou focado no aprendizado para Developer Full Stack
-- 🔭 Estudando JavaScript, NodeJS e ReactJS
-- 🌱 Todos os dias colheando novos conhecimentos
-- 😁 Pronouns: ele/dele
+- 🚀 Focado em me tornar Desenvolvedor Full Stack!
+- 🔭 Estudando JavaScript, Angular e Java (logo mais React e Node).
+- 🌱 Praticar é a chave.
 
 ##
 
