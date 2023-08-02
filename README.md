@@ -1,7 +1,7 @@
-## Olá! Eu sou o Davi Figueiredo 👋
+## Olá! Eu me chamo Davi Figueiredo 👋
 
 - 🚀 Focado em me tornar Desenvolvedor Full Stack!
-- 🔭 Estudando JavaScript, Angular e Java (logo mais React e Node).
+- 🔭 Estudando JavaScript, Angular e Java.
 - 🌱 Praticar é a chave.
 
 ##
