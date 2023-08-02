@@ -1,4 +1,4 @@
-## Olá! Eu me chamo Davi Figueiredo 👋
+## Olá! Me chamo Davi Figueiredo 👋
 
 - 🚀 Focado em me tornar Desenvolvedor Full Stack!
 - 🔭 Estudando JavaScript, Angular e Java.
